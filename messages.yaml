@@ -1,0 +1,24 @@
+appId: com.example.caregon_user
+
+---
+- tapOn: "Messages\nTab 3 of 4"
+
+- assertVisible: "Search by name"
+
+- assertVisible: "Messages"
+
+- assertVisible: "Older"
+
+- tapOn: "Christabel Sey
+
+    Yes, I am on my way
+
+    5:16 AM
+
+    1"
+
+- assertVisible: "Type your message"
+
+- tapOn:
+    point: "7%,8%"
+

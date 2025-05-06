@@ -1,0 +1,23 @@
+appId: com.example.caregon_user
+
+---
+
+- tapOn: "Profile\nTab 4 of 4"
+
+- assertVisible: "Settings"
+
+- assertVisible: "Verify your account
+
+    We need to verify your ID to be 100% sure..."
+
+- assertVisible: "Personal data"
+
+- assertVisible: "Payment methods"
+
+- assertVisible: "Payment history"
+
+- assertVisible: "Notifications"
+
+- assertVisible: "Rate & Review"
+
+- assertVisible: "Help"
