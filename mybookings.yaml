@@ -1,0 +1,44 @@
+appId: com.example.caregon_user
+
+---
+
+- tapOn: "Bookings\nTab 2 of 4"
+
+- assertVisible: "My Bookings"
+
+- tapOn: "Companion Care
+
+    Open
+
+    2 March 12:30 PM - 6:30 PM
+
+    James Kwame Mensah
+
+    c162"
+
+- tapOn: "Pending\n2\nTab 2 of 4"
+
+- tapOn: "Respite Care
+
+    Pending
+
+    4 February 9:30 AM - 3:00 PM
+
+    1 response
+
+    c162"
+
+- tapOn: "Upcoming\n1\nTab 3 of 4"
+
+- tapOn: "Specialized Care
+
+    Confirmed
+
+    4 February 9:30 AM - 3:00 PM
+
+    Jerry Coleman
+
+    c162"
+
+- tapOn: "Ongoing\n3\nTab 4 of 4"
+

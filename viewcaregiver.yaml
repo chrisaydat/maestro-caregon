@@ -1,0 +1,18 @@
+appId: com.example.caregon_user
+
+---
+
+- tapOn: "Companion Care\nQuick booking"
+
+- tapOn: "Milly Asante
+
+    Rating: 5.0
+
+    c28
+
+    per hour"
+
+- assertVisible: "Milly Asante"
+
+- tapOn: "Back"
+

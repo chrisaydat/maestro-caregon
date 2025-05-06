@@ -1,0 +1,24 @@
+appId: com.example.caregon_user
+
+---
+- tapOn: "Caregon"
+
+- repeat:
+    times: 4
+    commands:
+      - tapOn:
+          point: 51%,89%
+
+
+- tapOn: "Log in"
+
+- tapOn: "Enter your email address"
+
+- inputText: "chrisaydat@gmail.com"
+
+- tapOn: "Enter your password"
+
+- inputText: "chrisaydat"
+
+- tapOn: "Log in"
+

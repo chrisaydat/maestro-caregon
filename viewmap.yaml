@@ -1,0 +1,11 @@
+appId: com.example.caregon_user
+
+---
+
+- tapOn: "See on Map"
+
+- assertVisible: "Filters"
+
+- tapOn: "Sort by: Distance"
+
+- tapOn: "Back to List view"
